@@ -17,6 +17,6 @@ For any use beyond private use, including commercial use, distribution, or modif
 
 **Copyright:**
 
-Copyright © [Your Name/Your Organization] [Year]. All rights reserved.
+Copyright © [warez@gmail.com] []. All rights reserved.
 
 By using this software, you agree to these terms and conditions.
